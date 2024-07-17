@@ -2,7 +2,6 @@ import Image from 'next/image';
 import logoImage from '../assets/images/logosaas.png';
 import MenuIcon from '../assets/icons/menu.svg';
 
-
 export const Navbar = () => {
   return (
     <div className='bg-black'>
